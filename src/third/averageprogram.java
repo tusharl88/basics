@@ -2,7 +2,7 @@ package third;
 
 import java.util.Scanner;
 
-public class averageprogram {
+public class averageprogram { // master has failed more then the beginner has ever tried.
 
 	public static void main(String[] args)
 	{
